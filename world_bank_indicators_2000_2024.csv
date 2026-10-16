@@ -1,0 +1,201 @@
+country_code,country,year,indicator_code,indicator,value
+CHN,China,2000,NY.GDP.PCAP.CD,GDP per capita current US dollars,969.199513696287
+CHN,China,2001,NY.GDP.PCAP.CD,GDP per capita current US dollars,1065.40597574519
+CHN,China,2002,NY.GDP.PCAP.CD,GDP per capita current US dollars,1163.55957673426
+CHN,China,2003,NY.GDP.PCAP.CD,GDP per capita current US dollars,1306.97245408557
+CHN,China,2004,NY.GDP.PCAP.CD,GDP per capita current US dollars,1530.92726215723
+CHN,China,2005,NY.GDP.PCAP.CD,GDP per capita current US dollars,1777.64496828464
+CHN,China,2006,NY.GDP.PCAP.CD,GDP per capita current US dollars,2129.25696999613
+CHN,China,2007,NY.GDP.PCAP.CD,GDP per capita current US dollars,2734.72709877693
+CHN,China,2008,NY.GDP.PCAP.CD,GDP per capita current US dollars,3523.44302065213
+CHN,China,2009,NY.GDP.PCAP.CD,GDP per capita current US dollars,3898.24459158811
+CHN,China,2010,NY.GDP.PCAP.CD,GDP per capita current US dollars,4629.24551710077
+CHN,China,2011,NY.GDP.PCAP.CD,GDP per capita current US dollars,5703.76027973346
+CHN,China,2012,NY.GDP.PCAP.CD,GDP per capita current US dollars,6405.0574241349
+CHN,China,2013,NY.GDP.PCAP.CD,GDP per capita current US dollars,7147.03518622344
+CHN,China,2014,NY.GDP.PCAP.CD,GDP per capita current US dollars,7781.06597484974
+CHN,China,2015,NY.GDP.PCAP.CD,GDP per capita current US dollars,8175.33285077393
+CHN,China,2016,NY.GDP.PCAP.CD,GDP per capita current US dollars,8254.86859320357
+CHN,China,2017,NY.GDP.PCAP.CD,GDP per capita current US dollars,8979.67652709856
+CHN,China,2018,NY.GDP.PCAP.CD,GDP per capita current US dollars,10085.6638148819
+CHN,China,2019,NY.GDP.PCAP.CD,GDP per capita current US dollars,10342.9009524335
+CHN,China,2020,NY.GDP.PCAP.CD,GDP per capita current US dollars,10627.4637989619
+CHN,China,2021,NY.GDP.PCAP.CD,GDP per capita current US dollars,12887.4357242941
+CHN,China,2022,NY.GDP.PCAP.CD,GDP per capita current US dollars,12970.6056414327
+CHN,China,2023,NY.GDP.PCAP.CD,GDP per capita current US dollars,12951.1782397043
+CHN,China,2024,NY.GDP.PCAP.CD,GDP per capita current US dollars,13293.1162269366
+GBR,United Kingdom,2000,NY.GDP.PCAP.CD,GDP per capita current US dollars,28383.8761094996
+GBR,United Kingdom,2001,NY.GDP.PCAP.CD,GDP per capita current US dollars,28013.8729635508
+GBR,United Kingdom,2002,NY.GDP.PCAP.CD,GDP per capita current US dollars,30158.7017807858
+GBR,United Kingdom,2003,NY.GDP.PCAP.CD,GDP per capita current US dollars,34556.7726095905
+GBR,United Kingdom,2004,NY.GDP.PCAP.CD,GDP per capita current US dollars,40504.4118103928
+GBR,United Kingdom,2005,NY.GDP.PCAP.CD,GDP per capita current US dollars,42240.2462987547
+GBR,United Kingdom,2006,NY.GDP.PCAP.CD,GDP per capita current US dollars,44695.161023424
+GBR,United Kingdom,2007,NY.GDP.PCAP.CD,GDP per capita current US dollars,50629.0799172887
+GBR,United Kingdom,2008,NY.GDP.PCAP.CD,GDP per capita current US dollars,47652.4030691881
+GBR,United Kingdom,2009,NY.GDP.PCAP.CD,GDP per capita current US dollars,39009.3715547821
+GBR,United Kingdom,2010,NY.GDP.PCAP.CD,GDP per capita current US dollars,39778.3220528565
+GBR,United Kingdom,2011,NY.GDP.PCAP.CD,GDP per capita current US dollars,42295.9273835322
+GBR,United Kingdom,2012,NY.GDP.PCAP.CD,GDP per capita current US dollars,42688.3263728372
+GBR,United Kingdom,2013,NY.GDP.PCAP.CD,GDP per capita current US dollars,43607.6636827371
+GBR,United Kingdom,2014,NY.GDP.PCAP.CD,GDP per capita current US dollars,47746.9810645521
+GBR,United Kingdom,2015,NY.GDP.PCAP.CD,GDP per capita current US dollars,45256.040227057
+GBR,United Kingdom,2016,NY.GDP.PCAP.CD,GDP per capita current US dollars,41258.5374285695
+GBR,United Kingdom,2017,NY.GDP.PCAP.CD,GDP per capita current US dollars,40918.0520870944
+GBR,United Kingdom,2018,NY.GDP.PCAP.CD,GDP per capita current US dollars,43704.3162296687
+GBR,United Kingdom,2019,NY.GDP.PCAP.CD,GDP per capita current US dollars,43160.6843971799
+GBR,United Kingdom,2020,NY.GDP.PCAP.CD,GDP per capita current US dollars,40815.1255364787
+GBR,United Kingdom,2021,NY.GDP.PCAP.CD,GDP per capita current US dollars,47695.6491523474
+GBR,United Kingdom,2022,NY.GDP.PCAP.CD,GDP per capita current US dollars,47034.7795621476
+GBR,United Kingdom,2023,NY.GDP.PCAP.CD,GDP per capita current US dollars,49919.6896621586
+GBR,United Kingdom,2024,NY.GDP.PCAP.CD,GDP per capita current US dollars,53341.3131094262
+JPN,Japan,2000,NY.GDP.PCAP.CD,GDP per capita current US dollars,39752.937397755
+JPN,Japan,2001,NY.GDP.PCAP.CD,GDP per capita current US dollars,34910.166403687
+JPN,Japan,2002,NY.GDP.PCAP.CD,GDP per capita current US dollars,33315.9165174962
+JPN,Japan,2003,NY.GDP.PCAP.CD,GDP per capita current US dollars,35808.6816792388
+JPN,Japan,2004,NY.GDP.PCAP.CD,GDP per capita current US dollars,38677.5708064787
+JPN,Japan,2005,NY.GDP.PCAP.CD,GDP per capita current US dollars,38158.6758263963
+JPN,Japan,2006,NY.GDP.PCAP.CD,GDP per capita current US dollars,36354.4271646349
+JPN,Japan,2007,NY.GDP.PCAP.CD,GDP per capita current US dollars,36129.9535132925
+JPN,Japan,2008,NY.GDP.PCAP.CD,GDP per capita current US dollars,40294.2081309702
+JPN,Japan,2009,NY.GDP.PCAP.CD,GDP per capita current US dollars,41678.1783063195
+JPN,Japan,2010,NY.GDP.PCAP.CD,GDP per capita current US dollars,45378.1378109399
+JPN,Japan,2011,NY.GDP.PCAP.CD,GDP per capita current US dollars,49122.077634247
+JPN,Japan,2012,NY.GDP.PCAP.CD,GDP per capita current US dollars,49626.6830327571
+JPN,Japan,2013,NY.GDP.PCAP.CD,GDP per capita current US dollars,41369.1948479498
+JPN,Japan,2014,NY.GDP.PCAP.CD,GDP per capita current US dollars,39172.8471161948
+JPN,Japan,2015,NY.GDP.PCAP.CD,GDP per capita current US dollars,35664.6446110613
+JPN,Japan,2016,NY.GDP.PCAP.CD,GDP per capita current US dollars,40214.9688631562
+JPN,Japan,2017,NY.GDP.PCAP.CD,GDP per capita current US dollars,39679.8635262948
+JPN,Japan,2018,NY.GDP.PCAP.CD,GDP per capita current US dollars,40645.478086519
+JPN,Japan,2019,NY.GDP.PCAP.CD,GDP per capita current US dollars,41424.8655601543
+JPN,Japan,2020,NY.GDP.PCAP.CD,GDP per capita current US dollars,41098.9739004553
+JPN,Japan,2021,NY.GDP.PCAP.CD,GDP per capita current US dollars,41580.739040705
+JPN,Japan,2022,NY.GDP.PCAP.CD,GDP per capita current US dollars,35548.2645222433
+JPN,Japan,2023,NY.GDP.PCAP.CD,GDP per capita current US dollars,35215.003535366
+JPN,Japan,2024,NY.GDP.PCAP.CD,GDP per capita current US dollars,33797.1014287876
+USA,United States,2000,NY.GDP.PCAP.CD,GDP per capita current US dollars,36329.9702595751
+USA,United States,2001,NY.GDP.PCAP.CD,GDP per capita current US dollars,37133.6203973517
+USA,United States,2002,NY.GDP.PCAP.CD,GDP per capita current US dollars,37997.7424300242
+USA,United States,2003,NY.GDP.PCAP.CD,GDP per capita current US dollars,39490.3023903176
+USA,United States,2004,NY.GDP.PCAP.CD,GDP per capita current US dollars,41724.6411982614
+USA,United States,2005,NY.GDP.PCAP.CD,GDP per capita current US dollars,44123.3996470026
+USA,United States,2006,NY.GDP.PCAP.CD,GDP per capita current US dollars,46301.9876485519
+USA,United States,2007,NY.GDP.PCAP.CD,GDP per capita current US dollars,48050.227412195
+USA,United States,2008,NY.GDP.PCAP.CD,GDP per capita current US dollars,48570.0594269601
+USA,United States,2009,NY.GDP.PCAP.CD,GDP per capita current US dollars,47194.9500893872
+USA,United States,2010,NY.GDP.PCAP.CD,GDP per capita current US dollars,48642.6312088213
+USA,United States,2011,NY.GDP.PCAP.CD,GDP per capita current US dollars,50024.8812320773
+USA,United States,2012,NY.GDP.PCAP.CD,GDP per capita current US dollars,51708.3940614082
+USA,United States,2013,NY.GDP.PCAP.CD,GDP per capita current US dollars,53297.3862901595
+USA,United States,2014,NY.GDP.PCAP.CD,GDP per capita current US dollars,55153.3940182967
+USA,United States,2015,NY.GDP.PCAP.CD,GDP per capita current US dollars,56849.4697923159
+USA,United States,2016,NY.GDP.PCAP.CD,GDP per capita current US dollars,57976.628204291
+USA,United States,2017,NY.GDP.PCAP.CD,GDP per capita current US dollars,60047.7190728307
+USA,United States,2018,NY.GDP.PCAP.CD,GDP per capita current US dollars,62875.6661382728
+USA,United States,2019,NY.GDP.PCAP.CD,GDP per capita current US dollars,65227.9565911038
+USA,United States,2020,NY.GDP.PCAP.CD,GDP per capita current US dollars,64465.2971415748
+USA,United States,2021,NY.GDP.PCAP.CD,GDP per capita current US dollars,71441.2319805947
+USA,United States,2022,NY.GDP.PCAP.CD,GDP per capita current US dollars,78008.6895811877
+USA,United States,2023,NY.GDP.PCAP.CD,GDP per capita current US dollars,82586.7847707894
+USA,United States,2024,NY.GDP.PCAP.CD,GDP per capita current US dollars,86169.6641581917
+CHN,China,2000,SP.POP.TOTL,Population total,1262645000.0
+CHN,China,2001,SP.POP.TOTL,Population total,1271850000.0
+CHN,China,2002,SP.POP.TOTL,Population total,1280400000.0
+CHN,China,2003,SP.POP.TOTL,Population total,1288400000.0
+CHN,China,2004,SP.POP.TOTL,Population total,1296075000.0
+CHN,China,2005,SP.POP.TOTL,Population total,1303720000.0
+CHN,China,2006,SP.POP.TOTL,Population total,1311020000.0
+CHN,China,2007,SP.POP.TOTL,Population total,1317885000.0
+CHN,China,2008,SP.POP.TOTL,Population total,1324655000.0
+CHN,China,2009,SP.POP.TOTL,Population total,1331260000.0
+CHN,China,2010,SP.POP.TOTL,Population total,1337705000.0
+CHN,China,2011,SP.POP.TOTL,Population total,1345035000.0
+CHN,China,2012,SP.POP.TOTL,Population total,1354190000.0
+CHN,China,2013,SP.POP.TOTL,Population total,1363240000.0
+CHN,China,2014,SP.POP.TOTL,Population total,1371860000.0
+CHN,China,2015,SP.POP.TOTL,Population total,1379860000.0
+CHN,China,2016,SP.POP.TOTL,Population total,1387790000.0
+CHN,China,2017,SP.POP.TOTL,Population total,1396215000.0
+CHN,China,2018,SP.POP.TOTL,Population total,1402760000.0
+CHN,China,2019,SP.POP.TOTL,Population total,1407745000.0
+CHN,China,2020,SP.POP.TOTL,Population total,1411100000.0
+CHN,China,2021,SP.POP.TOTL,Population total,1412360000.0
+CHN,China,2022,SP.POP.TOTL,Population total,1412175000.0
+CHN,China,2023,SP.POP.TOTL,Population total,1410710000.0
+CHN,China,2024,SP.POP.TOTL,Population total,1408975000.0
+GBR,United Kingdom,2000,SP.POP.TOTL,Population total,58892514.0
+GBR,United Kingdom,2001,SP.POP.TOTL,Population total,59119673.0
+GBR,United Kingdom,2002,SP.POP.TOTL,Population total,59370479.0
+GBR,United Kingdom,2003,SP.POP.TOTL,Population total,59647577.0
+GBR,United Kingdom,2004,SP.POP.TOTL,Population total,59987905.0
+GBR,United Kingdom,2005,SP.POP.TOTL,Population total,60401206.0
+GBR,United Kingdom,2006,SP.POP.TOTL,Population total,60846820.0
+GBR,United Kingdom,2007,SP.POP.TOTL,Population total,61322463.0
+GBR,United Kingdom,2008,SP.POP.TOTL,Population total,61806995.0
+GBR,United Kingdom,2009,SP.POP.TOTL,Population total,62276270.0
+GBR,United Kingdom,2010,SP.POP.TOTL,Population total,62766365.0
+GBR,United Kingdom,2011,SP.POP.TOTL,Population total,63258810.0
+GBR,United Kingdom,2012,SP.POP.TOTL,Population total,63711000.0
+GBR,United Kingdom,2013,SP.POP.TOTL,Population total,64138000.0
+GBR,United Kingdom,2014,SP.POP.TOTL,Population total,64619000.0
+GBR,United Kingdom,2015,SP.POP.TOTL,Population total,65087000.0
+GBR,United Kingdom,2016,SP.POP.TOTL,Population total,65606000.0
+GBR,United Kingdom,2017,SP.POP.TOTL,Population total,65964000.0
+GBR,United Kingdom,2018,SP.POP.TOTL,Population total,66287000.0
+GBR,United Kingdom,2019,SP.POP.TOTL,Population total,66628000.0
+GBR,United Kingdom,2020,SP.POP.TOTL,Population total,66740000.0
+GBR,United Kingdom,2021,SP.POP.TOTL,Population total,66978000.0
+GBR,United Kingdom,2022,SP.POP.TOTL,Population total,67636000.0
+GBR,United Kingdom,2023,SP.POP.TOTL,Population total,68526000.0
+GBR,United Kingdom,2024,SP.POP.TOTL,Population total,69281000.0
+JPN,Japan,2000,SP.POP.TOTL,Population total,126843000.0
+JPN,Japan,2001,SP.POP.TOTL,Population total,127149000.0
+JPN,Japan,2002,SP.POP.TOTL,Population total,127445000.0
+JPN,Japan,2003,SP.POP.TOTL,Population total,127718000.0
+JPN,Japan,2004,SP.POP.TOTL,Population total,127761000.0
+JPN,Japan,2005,SP.POP.TOTL,Population total,127773000.0
+JPN,Japan,2006,SP.POP.TOTL,Population total,127854000.0
+JPN,Japan,2007,SP.POP.TOTL,Population total,128001000.0
+JPN,Japan,2008,SP.POP.TOTL,Population total,128063000.0
+JPN,Japan,2009,SP.POP.TOTL,Population total,128047000.0
+JPN,Japan,2010,SP.POP.TOTL,Population total,128070000.0
+JPN,Japan,2011,SP.POP.TOTL,Population total,127833000.0
+JPN,Japan,2012,SP.POP.TOTL,Population total,127629000.0
+JPN,Japan,2013,SP.POP.TOTL,Population total,127445000.0
+JPN,Japan,2014,SP.POP.TOTL,Population total,127276000.0
+JPN,Japan,2015,SP.POP.TOTL,Population total,127141000.0
+JPN,Japan,2016,SP.POP.TOTL,Population total,127076000.0
+JPN,Japan,2017,SP.POP.TOTL,Population total,126972000.0
+JPN,Japan,2018,SP.POP.TOTL,Population total,126811000.0
+JPN,Japan,2019,SP.POP.TOTL,Population total,126633000.0
+JPN,Japan,2020,SP.POP.TOTL,Population total,126261000.0
+JPN,Japan,2021,SP.POP.TOTL,Population total,125681593.0
+JPN,Japan,2022,SP.POP.TOTL,Population total,125124989.0
+JPN,Japan,2023,SP.POP.TOTL,Population total,124516650.0
+JPN,Japan,2024,SP.POP.TOTL,Population total,123975371.0
+USA,United States,2000,SP.POP.TOTL,Population total,282162411.0
+USA,United States,2001,SP.POP.TOTL,Population total,284968955.0
+USA,United States,2002,SP.POP.TOTL,Population total,287625193.0
+USA,United States,2003,SP.POP.TOTL,Population total,290107933.0
+USA,United States,2004,SP.POP.TOTL,Population total,292805298.0
+USA,United States,2005,SP.POP.TOTL,Population total,295516599.0
+USA,United States,2006,SP.POP.TOTL,Population total,298379912.0
+USA,United States,2007,SP.POP.TOTL,Population total,301231207.0
+USA,United States,2008,SP.POP.TOTL,Population total,304093966.0
+USA,United States,2009,SP.POP.TOTL,Population total,306771529.0
+USA,United States,2010,SP.POP.TOTL,Population total,309378227.0
+USA,United States,2011,SP.POP.TOTL,Population total,311839461.0
+USA,United States,2012,SP.POP.TOTL,Population total,314339099.0
+USA,United States,2013,SP.POP.TOTL,Population total,316726282.0
+USA,United States,2014,SP.POP.TOTL,Population total,319257560.0
+USA,United States,2015,SP.POP.TOTL,Population total,321815121.0
+USA,United States,2016,SP.POP.TOTL,Population total,324353340.0
+USA,United States,2017,SP.POP.TOTL,Population total,326608609.0
+USA,United States,2018,SP.POP.TOTL,Population total,328529577.0
+USA,United States,2019,SP.POP.TOTL,Population total,330226227.0
+USA,United States,2020,SP.POP.TOTL,Population total,331578104.0
+USA,United States,2021,SP.POP.TOTL,Population total,332100166.0
+USA,United States,2022,SP.POP.TOTL,Population total,333996304.0
+USA,United States,2023,SP.POP.TOTL,Population total,336755052.0
+USA,United States,2024,SP.POP.TOTL,Population total,340003797.0
